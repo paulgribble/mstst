@@ -72,10 +72,10 @@ administration</role>
 <corresp id="cor-1">steve@curvenote.com</corresp>
 </author-notes>
 
-<pub-date date-type="pub" publication-format="electronic" iso-8601-date="2023-09-26">
+<pub-date date-type="pub" publication-format="electronic" iso-8601-date="2023-11-29">
 <year>2023</year>
-<month>9</month>
-<day>26</day>
+<month>11</month>
+<day>29</day>
 </pub-date>
 
 
@@ -224,6 +224,7 @@ Nacional (IGN). …</p>
 
 <back>
 <ref-list>
+  <title>References</title>
   <ref id="ref-marrero2019">
     <element-citation publication-type="article-journal">
       <person-group person-group-type="author">
@@ -453,6 +454,7 @@ avg_years_between_eruptions</code>
 
 <back>
 <ref-list>
+  <title>References</title>
   <ref id="ref-marrero2019-nb-article">
     <element-citation publication-type="article-journal">
       <person-group person-group-type="author">
